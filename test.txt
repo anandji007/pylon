@@ -1,1 +1,1 @@
-Testing git repository for checking
+Testing Git repository for checking
